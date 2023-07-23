@@ -1,0 +1,1 @@
+Se pueden declarar los operadores de conversión inline?
