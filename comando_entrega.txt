@@ -1,1 +1,0 @@
-ls -1 Montoro_Venegas_Andrés/P1/{cadena,fecha}.[ch]pp | tar -cvzf Montoro_Venegas_Andrés.tar.gz -T -
